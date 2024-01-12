@@ -27,7 +27,7 @@ This Flutter app displays information about Electric Vehicle (EV) charging stati
 2. Change directory:
 
     ```bash
-    cd ev-charging-stations-app
+    cd EvChargingApplication
     ```
 
 3. Run the app:
