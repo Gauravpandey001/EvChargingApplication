@@ -1,5 +1,5 @@
 # EvChargingApplication
-# EV Charging Stations App
+
 
 This Flutter app displays information about Electric Vehicle (EV) charging stations. It fetches data from a mock API and presents a list of charging stations with details like name, power type, wattage, and status. Users can view station details and see their profile information.
 
